@@ -55,13 +55,10 @@ This project was developed as part of the **CSE370: Database Systems** course. I
 ## 📊 Diagrams
 
 ### 📘 ER/EER Diagram  
-![ER Diagram](diagrams/erd.png)
-
+<img width="1047" height="740" alt="image" src="https://github.com/user-attachments/assets/34749b7e-c521-4ba9-bd5a-2d32ec2c4dfa" />
 
 ### 📗 Schema Diagram  
-![Schema Diagram](diagrams/schema.png)
 <img width="861" height="872" alt="image" src="https://github.com/user-attachments/assets/1acfa684-e851-468c-ad8e-0fefdfd56a38" />
-
 
 ---
 
